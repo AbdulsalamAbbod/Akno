@@ -32,4 +32,12 @@ Just deactivate the three lines.
 /**/
 
 
+/*Updates*/
+Stay tooned for updates, and if you interested
+in contributing at this project contact me
+abdulsalamabbod@gmail.com
+/**/
+
+Thanks for supporting 
+
 
