@@ -26,9 +26,8 @@ at high state, or you can just attach it into 5v.
 I used common Anode RGB LEDs at this version of
 Akno, so if you want to use common Cathode LEDs
 you should make changes at :
-expressions.h/line:56/(LED1,LED2) functions by 
-Deactivate the common Anode line and activate
-the common Cathode line.
+expressions.h/(line:250&line:262)/(LED1&LED2) functions by 
+Just deactivate the three lines.
 
 /**/
 
