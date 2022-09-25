@@ -15,6 +15,25 @@ With two common Anode RGB LEDs one in the front
 and one in the back of the robot.
 /**/
 
+===========================================
+
+/*Features*/
+Akno support's more than 250 voice command (25 of them is already  in use at that version)
+
+15 different facial expression with smoth animation
+(happy, sad, angry, upset, normal, cute, suspicious, iam, youmademe, wonder, downeye, righteye, lefteye, upeye, blink) plus two RGB LEDs effects.
+
+6 different moving pattern (right, left, forward, backward, spinning, doproblems)
+
+Akno support's game mode (PongGame) you can play 
+with him.
+
+You can add more features if you're familiar with c/c++.
+/**/
+
+===========================================
+
+
 /* NOTICE CAREFULLY*/
 Please notice all buttons connected to analog pin 
 with resistors in parallel, so you should consider
@@ -28,8 +47,9 @@ Akno, so if you want to use common Cathode LEDs
 you should make changes at :
 expressions.h/(line:250&line:262)/(LED1&LED2) functions by 
 Just deactivate the three lines.
-
 /**/
+
+===========================================
 
 
 /*Updates*/
@@ -37,6 +57,8 @@ Stay tooned for updates, and if you interested
 in contributing at this project contact me
 abdulsalamabbod@gmail.com
 /**/
+
+
 
 Thanks for supporting 
 
