@@ -63,3 +63,11 @@ abdulsalamabbod@gmail.com
 Thanks for supporting 
 
 
+
+
+
+
+
+little note : I made this entire robot from my smartphone 👽
+
+
