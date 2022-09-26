@@ -1,5 +1,5 @@
 # Akno 1.1v
-Akno is a smart, kind, and cute robot
+AKNO is a smart, kind, and cute robot
 made with love and wires.
 
 By Abdulsalam Abbod Shihab 2022/9/24, 6:30pm
