@@ -69,6 +69,6 @@ Thanks for supporting
 
 
 
-little note : I made this entire robot from my smartphone 👽
+little secret : I made this entire robot from my smartphone 👽
 
 
