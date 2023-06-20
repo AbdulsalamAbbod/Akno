@@ -59,7 +59,7 @@ in contributing at this project contact me
 abdulsalamabbod@gmail.com
 /**/
 
-
+This is the the worst code I've ever written, but it works :)
 
 Thanks for supporting 
 
